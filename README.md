@@ -61,10 +61,3 @@ Anyone contributing to or using this repository is responsible for:
 - Preserving required attribution and license notices
 - Ensuring compliance with applicable copyright and trademark laws
 
----
-
-## Enforcement
-
-Assets that violate this policy may be removed at any time without notice.
-
-Repeated or serious violations may result in access being restricted.
